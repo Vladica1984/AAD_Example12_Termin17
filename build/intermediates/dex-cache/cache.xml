@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_2f0c47750fb597c537507c45606603c36e8dca04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_02531722d5fb9a85216f21d40368b6819fb8ae2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_951f3d9fc3edb91500cb2232bd4efeb32d9e188b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_b64e59cfa66eaa04713ce0b0761b64c52b6e00cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_525455d936c9ff81782e89d7563c007e0ff1223a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_4d83d8115dc66d005a2c4e131ba871025fe8c564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_d879f271a7c183e75909dc18c4e7da4adae1b135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_2a75f06b1e5870982afeef5b9c47097f0205b93e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_aea15e80214a2249bdfc866ccf0a7483c9cc9311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_fab3327d9fc7432ed67924bb298fe092389b31ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_117810ac68d8b8ed1cc9778b3d392a1069d6df1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2856c5be0311dd35743fa947db3b0b09f36e4c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_ec661b1f2d848b409bc1651b90fbf99bb9ee945a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_dba8746663be03103ddc11d6df292b0781441a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_fe78be52dc000d1bc08029851833bd07c272d4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_1caca948e011b0feb8fe49bb5180de141cc5b0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d995dedc41eca166063e5cbc4c308be087b84a">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\instant-run_ca525669d36ed3fbf2a909564fce9edd795ec4d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cc6f4c8818794ae3cb5b8dfbf7caa7e4e2236cd">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\instant-run_e3d886b60990acd54dcda04b0a1b5baf24bb11b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_31403f550a0248244189858a201bce0cface770a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_c178494f2b456c6c8d859a4cbb59452be653039e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_b64dec073ba4577f53bd8090fd3f9d83e4d59da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_840c63b5fa3d8bed84f82318c8cb404a773ad0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_175504c1253e9c94c922cad20fb84396d1684194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_5c61799f52ef438b33bfa19e47687515a73b43a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_38db7fd0b00f323d7b244cdc8cdaef5c190eefa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_17db16ea7da1e9da148b4bc689b34758bc35a4d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2212414dd081ec025ffca694d9b7767aedd4a48">
+        <dex dex="C:\Users\Alen\StudioProjects\Domaci17\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5e619a25c130415248255bdb7357431884cf59dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9197f81d159d1f69945b5e027ff3f238d41e3881">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_720a8b36e70681a2a26ddb9b5ce024233de6c805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Alen\StudioProjects\AndroidProjekat\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_7596f3702de14837115d1b89493e9ea3032580cf.jar" />
+    </item>
+
+</items>

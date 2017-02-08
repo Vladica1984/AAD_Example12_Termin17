@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_an_activity">Стартованје активности</string>
+    <string name="open_web_browser">Oтвори интернер претраживач</string>
+    <string name="start_camera">Покрени камеру</string>
+    <string name="start_activity_">Start Activity</string>
+    <string name="tv_cena">tv_cena</string>
+    <string name="tv_kalorije" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_an_activity">Start an Activity</string>
+    <string name="open_web_browser">Open web Browser</string>
+    <string name="start_camera">Start Camera</string>
+    <string name="start_activity_">Start Activity</string>
+    <string name="tv_cena">tv_cena</string>
+    <string name="tv_kalorije" />
+</resources>

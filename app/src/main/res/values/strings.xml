@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Termin12</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="start_an_activity">Start an Activity</string>
+    <string name="open_web_browser">Open web Browser</string>
+    <string name="start_camera">Start Camera</string>
+    <string name="start_activity">Start Activity</string>
+    <string name="start_activity_">Start Activity</string>
+    <string name="tv_kalorije" />
+    <string name="jelo_calories">%.2f calories</string>
+    <string name="jelo_price">%.2f RSD</string>
+</resources>
