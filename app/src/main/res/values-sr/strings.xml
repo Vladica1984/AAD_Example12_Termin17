@@ -3,7 +3,35 @@
     <string name="start_an_activity">Стартованје активности</string>
     <string name="open_web_browser">Oтвори интернер претраживач</string>
     <string name="start_camera">Покрени камеру</string>
-    <string name="start_activity_">Start Activity</string>
+    <string name="start_activity_">Startuj Aktivnost</string>
     <string name="tv_cena">tv_cena</string>
     <string name="tv_kalorije" />
+    <string name="activity_first_toolbar_title">Prva aktivnost</string>
+    <string name="activity_first_name">Prva Aktivnost</string>
+    <string name="activity_settings_name">Podesavanja</string>
+
+    <string name="dialog_about_title">O</string>
+    <string name="dialog_about_message">Ovo je primer18 app koja prikazuje upotrebu tostera, obavestenja, dijaloga, preferencija, linije sa alatljikama i navigation drawers-a!</string>
+    <string name="dialog_about_yes">OK</string>
+    <string name="dialog_about_no">Cancel</string>
+
+    <string name="drawer_close">Zatvori Navigation Drawer</string>
+    <string name="drawer_open">Otvori Navigation Drawer</string>
+
+    <string name="pref_sync">pref_sinhronizacija</string>
+    <string name="pref_sync_summ">Омогући да апликација аутоматски синхронизује податке ако је Wi-fi мрежа доступна</string>
+    <string name="pref_sync_title">Dozvoli Sync</string>
+    <string name="pref_syncConnectionType">Sync Interval</string>
+    <string name="pref_sync_list">pref_sync_lista</string>
+
+    <string name="fragment_master_action_create">Kreiraj</string>
+    <string name="fragment_detail_action_update">izmeni</string>
+    <string name="fragment_detail_action_delete">obrisi</string>
+
+    <string name="drawer_home">Kuca</string>
+    <string name="drawer_settings">Podesavanja</string>
+    <string name="drawer_about">O</string>
+    <string name="drawer_home_long">Prikazi sva jela</string>
+    <string name="drawer_settings_long">Promeni podesavanja aplikacije</string>
+    <string name="drawer_about_long">O nama</string>
 </resources>

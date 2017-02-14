@@ -29,6 +29,8 @@ import java.util.List;
 
 public class DetailFragment extends Fragment {
 
+    private static int NOTIFICATION_ID = 1;
+
     private int position = 0;
 
     @Override
