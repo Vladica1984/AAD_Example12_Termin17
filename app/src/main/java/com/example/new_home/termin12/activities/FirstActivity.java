@@ -74,6 +74,7 @@ public class FirstActivity extends AppCompatActivity implements MasterFragment.O
                 drawerList.setAdapter(adapter);
 
                 Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+                setSupportActionBar(toolbar);
                 final android.support.v7.app.ActionBar actionBar = getSupportActionBar();
 
                 if (actionBar != null) {
